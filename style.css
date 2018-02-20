@@ -1,0 +1,18 @@
+body {
+    background: rgb(0, 46, 48);
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: red;
+}
+
+label {
+    color: rgb(4, 117, 42);
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
