@@ -1,5 +1,8 @@
 # quiz
 
+
+http://andershagelkvist.wieg17.se/quiz/
+
 Klass som heter Question
     text:String (frågan)
     answerOne Sträng 
